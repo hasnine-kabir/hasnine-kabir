@@ -9,7 +9,7 @@
 
 <!--meme-->
 <div>
-  <img src="https://your-link-to-the-snowflake-gif.gif" alt="Spinning Snowflake" width="200" height="200"/>
+  <img src="https://c.tenor.com/02Hyp5H8rREAAAAd/tenor.gif" alt="Spinning Snowflake" width="200" height="200"/>
 </div>
 
 
