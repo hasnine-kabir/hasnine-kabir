@@ -15,7 +15,7 @@ print("Welcome to my GitHub! 🚀")
 ```
 <!--meme-->
 <div>
-  <img src="https://c.tenor.com/02Hyp5H8rREAAAAd/tenor.gif" alt="Spinning Snowflake" width="200" height="200"/>
+  <img src="https://c.tenor.com/02Hyp5H8rREAAAAd/tenor.gif" alt="kid_eating_funny" width="200" height="200"/>
 </div>
 
 
@@ -44,13 +44,16 @@ print("Welcome to my GitHub! 🚀")
 
 
 ## 🚀 Featured Projects
-- [🌟 Library Management System](https://github.com/hasnine-kabir/library-management) - A PHP & MySQL-based project for 
-optimizations
+- [Library Management System](https://github.com/hasnine-kabir/library-management) - A PHP & MySQL-based project for
+- [Bank Management System](https://github.com/hasnine-kabir/Bank-Management-JAVA) - A basic and functional JAVA project
+
+optimizations and tutorials
 - [🎮 Optimize pc for Gaming](https://youtu.be/UFQe_xLl5so?si=L3DBs3hjdKI8hObR) - Best settings and tweaks for PC Gaming
+- [Binary tree explanation](https://drive.google.com/file/d/1vQbthWD2f9psCDkZfPY5ctOAUKh_eTh1/view?usp=sharing) - Language: Bangla
+- [Activate windows](https://drive.google.com/file/d/1lMhu0jER6WhlU7XukZ_1QDHux6-Iu6ET/view?usp=sharing) - Language: English
 
 ## 📚 Latest Blog Posts
-- [🔹 How to Optimize Your PC for Gaming](https://your-blog-link.com)
-- [🔹 Best JavaScript Tricks You Didn’t Know](https://your-blog-link.com)
+- [no_blogs_yet]
 
 ## 📫 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025037919922)  
