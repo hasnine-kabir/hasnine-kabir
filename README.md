@@ -8,7 +8,7 @@
 📚 Currently learning **C++, STL, HTML, CSS, and JavaScript**  
 
 <!--meme-->
-<div align="left">
+<div>
   <img src="https://your-link-to-the-snowflake-gif.gif" alt="Spinning Snowflake" width="200" height="200"/>
 </div>
 
