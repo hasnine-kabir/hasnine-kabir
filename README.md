@@ -2,15 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=435&lines=Hi!+I'm+Md+Hasnine+Kabir;Competitive+Programmer+%7C+Web+Dev;Hardware+Enthusiast+%7C+CS+Student;Gamer)](https://git.io/typing-svg)
 
-<!-- Spinning animation using an external image URL -->
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnine-kabir&theme=react-dark)
-
-
+-------------------------------------------------------------
 
 🔧 **Hardware Enthusiast** – I break and build pc stuffs
 📚 Currently learning **C++, STL, HTML, CSS, and JavaScript**  
+
+<!-- Embedding the snowflake animation GIF -->
+<div align="center">
+  <img src="https://c.tenor.com/02Hyp5H8rREAAAAd/tenor.gif" alt="Spinning Snowflake" width="100" height="100"/>
+</div>
+
+
+---
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnine-kabir&theme=react-dark)
 
 ---
 
