@@ -7,9 +7,9 @@
 🔧 **Hardware Enthusiast** – I break and build pc stuffs
 📚 Currently learning **C++, STL, HTML, CSS, and JavaScript**  
 
-<!-- Embedding the snowflake animation GIF -->
-<div align="center">
-  <img src="https://c.tenor.com/02Hyp5H8rREAAAAd/tenor.gif" alt="Spinning Snowflake" width="100" height="100"/>
+<!--meme-->
+<div align="left">
+  <img src="https://your-link-to-the-snowflake-gif.gif" alt="Spinning Snowflake" width="200" height="200"/>
 </div>
 
 
