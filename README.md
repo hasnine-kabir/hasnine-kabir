@@ -4,18 +4,12 @@
 
 <!-- Spinning animation using an external image URL -->
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Loading_icon.gif" alt="Spinning animation" width="100" height="100"/>
-</div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnine-kabir&theme=react-dark)
 
 
-# 👋 Hey, I'm Md Hasnine Kabir!  
-### 🚀 CSE Student | Web Developer | CP Enthusiast | Hardware Lover  
 
-💻 Passionate about **Web App Development, Competitive Programming, and Machine Learning**  
-🔧 **Hardware Enthusiast** – I love exploring and tweaking computer hardware!  
+🔧 **Hardware Enthusiast** – I break and build pc stuffs
 📚 Currently learning **C++, STL, HTML, CSS, and JavaScript**  
 
 ---
@@ -42,6 +36,5 @@
 
 ---
 
-💡 **"Technology is best when it brings people together."**  
-🚀 Always exploring and building!  
+ **Shinzou Sasageyo!**
 
