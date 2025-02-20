@@ -25,7 +25,7 @@ print("Welcome to my GitHub! 🚀")
 
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasnine-kabir&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hasnine-kabir&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnine-kabir&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🌍 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnine-kabir&theme=react-dark)
